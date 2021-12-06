@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "haibo3939/methodology5:latest",
+    "build-script": "python3 run.py"
+}
